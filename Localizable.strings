@@ -1,0 +1,266 @@
+"Pastagames"		=	"Pastagames";
+
+"STR_LANG"= "zh-Hans";
+"STR_FONT_FILENAME" = "gfx/fonts/RAY_zh_hans_sung_bold.fnt";
+"STR_HD_FONT_FILENAME" = "gfx/fonts/RAY_zh_hans_sung_bold_HD.fnt";
+
+// MAIN MENU -----------------
+
+"STR_PLAY"                  =               "开始游戏";
+"STR_OPTIONS"               =               "选项";
+"STR_GALLERY"               =               "画廊";
+"STR_ACHIEVEMENTS"          =               "功勋";
+"STR_MORE_LEADERBOARDS"     =               "排行榜";
+"STR_RESUME"                =               "重返";
+"STR_BACK"                  =               "返回";
+"STR_MOREGAMES"             =               "更多游戏";
+
+"STR_RESET"                 =               "重新计分";
+"STR_SFX"                   =               "特效";
+"STR_MUSIC"                 =               "音乐";
+"STR_CREDITS"               =               "积分";
+
+"STR_PAUSE"                 =               "暂停";
+"STR_CONTINUE"              =               "继续";
+"STR_RESTART"               =               "重新开始";
+"STR_QUIT"                  =               "返回主菜单";
+
+"STR_MUSIC_VOL"             =               "音乐";
+"STR_SFX_VOL"               =               "特效";
+
+"STR_JUMP"                  =               "跳跃";
+"STR_FLY"                   =               "飞行";
+"STR_RUN_ON_WALLS"          =               "爬墙";
+"STR_PUNCH"                 =               "出拳";
+
+"STR_NEW_BEST"              =               "最高得分";
+
+"STR_CONFIRM_RESET"         =               "确定要重置所有完成时间、\n功勋和收集到的Lums吗？";
+"STR_OK"                    =               "是的，确定";
+"STR_CANCEL"                =               "取消";
+
+"STR_ACHIEVEMENT_UNLOCKED"  =               "%ls";
+
+"STR_GROOVY"                =               "太帅了!";
+"STR_VERY_GOOOD"            =               "真棒";
+"STR_PERFECT"               =               "漂亮";
+
+"STR_COLLECTED_TOTAL"       =               "收集到的Lums";
+
+"STR_GALLERY_ITEM_01"       =               "雷曼";
+"STR_GALLERY_ITEM_02"       =               "贝缇拉";
+"STR_GALLERY_ITEM_03"       =               "雷曼 & 格罗伯克斯";
+"STR_GALLERY_ITEM_04"       =               "雷曼, 格罗伯克斯 & 小丁息";
+"STR_GALLERY_ITEM_05"       =               "格罗伯克斯 & 雷曼";
+"STR_GALLERY_ITEM_06"       =               "小丁息";
+"STR_GALLERY_ITEM_07"       =               "死亡精灵 & 巫毒";
+"STR_GALLERY_ITEM_08"       =               "小图恩";
+"STR_GALLERY_ITEM_09"       =               "独眼怪";
+"STR_GALLERY_ITEM_10"       =               "Boss伯德";
+"STR_GALLERY_ITEM_11"       =               "猎人";
+"STR_GALLERY_ITEM_12"       =               "死亡精灵";
+"STR_GALLERY_ITEM_13"       =               "死亡精灵 & 雷曼";
+"STR_GALLERY_ITEM_14"       =               "死亡精灵 & 雷曼";
+"STR_GALLERY_ITEM_15"       =               "大Boss";
+
+"STR_BUY"                   =               "购买";
+"STR_WAIT"                  =               "稍等";
+
+"STR_LEVEL"                 =               "关卡";
+
+"STR_LEVEL_1_1"             =               "在晴天奔跑";
+"STR_LEVEL_1_2"             =               "树冠";
+"STR_LEVEL_1_3"             =               "在树根下";
+"STR_LEVEL_1_4"             =               "来来往往";
+"STR_LEVEL_1_5"             =               "上上下下";
+"STR_LEVEL_1_6"             =               "用力推";
+"STR_LEVEL_1_7"             =               "寻找Lums！";
+"STR_LEVEL_1_8"             =               "困兽斗";
+"STR_LEVEL_1_9"             =               "雷曼与豆藤";
+"STR_LEVEL_1_10"            =               "信念之跃，死亡之跃";
+
+"STR_LEVEL_2_1"             =               "螺旋桨头";
+"STR_LEVEL_2_2"             =               "万恶之源";
+"STR_LEVEL_2_3"             =               "重返人间";
+"STR_LEVEL_2_4"             =               "活树根之夜";
+"STR_LEVEL_2_5"             =               "日阳之旅";
+"STR_LEVEL_2_6"             =               "一闪即逝";
+"STR_LEVEL_2_7"             =               "飞越布谷鸟窝";
+"STR_LEVEL_2_8"             =               "让sheperd高兴的彩霞";
+"STR_LEVEL_2_9"             =               "绿林";
+"STR_LEVEL_2_10"            =               "死亡吐息";
+
+"STR_LEVEL_3_1"             =               "翻墙";
+"STR_LEVEL_3_2"             =               "翡翠石窟";
+"STR_LEVEL_3_3"             =               "神密的蓝色画廊";
+"STR_LEVEL_3_4"             =               "是Lividstone医生吗？";
+"STR_LEVEL_3_5"             =               "顶上生根";
+"STR_LEVEL_3_6"             =               "大火球";
+"STR_LEVEL_3_7"             =               "火山底下";
+"STR_LEVEL_3_8"             =               "不停地上下翻滚";
+"STR_LEVEL_3_9"             =               "迷人的曲线";
+"STR_LEVEL_3_10"            =               "放马过来！";
+
+"STR_LEVEL_4_1"             =               "敲响天堂之门";
+"STR_LEVEL_4_2"             =               "Lividstone串烧";
+"STR_LEVEL_4_3"             =               "小心尖锐的头盔";
+"STR_LEVEL_4_4"             =               "风云会";
+"STR_LEVEL_4_5"             =               "夜间飞行";
+"STR_LEVEL_4_6"             =               "无影脚";
+"STR_LEVEL_4_7"             =               "铁拳无敌";
+"STR_LEVEL_4_8"             =               "背光";
+"STR_LEVEL_4_9"             =               "重新出击";
+"STR_LEVEL_4_10"            =               "炼狱大舞厅！";
+
+"STR_UNLOCKED_TOOTH_1"      =               "喔，第一颗死神之牙";
+"STR_UNLOCKED_TOOTH_2"      =               "两颗牙，不错\n再多几颗就可以咬人了！";
+"STR_UNLOCKED_TOOTH_3"      =               "第三颗！\n离开，他快开始咬人了！";
+"STR_UNLOCKED_TOOTH_4"      =               "天呀，她很开心！再来1颗，\n就可以得到他的奖励！";
+"STR_UNLOCKED_TOOTH_5"      =               "你解锁了死亡禁区！\n到主菜单去看看吧！";
+"STR_UNLOCKED_TOOTH_6"      =               "哈哈！你现在有6颗亡者之牙了！";
+"STR_UNLOCKED_TOOTH_7"      =               "棒呀！你现在有7颗亡者之牙了！";
+"STR_UNLOCKED_TOOTH_8"      =               "哇哈！你现在有8颗亡者之牙了！";
+"STR_UNLOCKED_TOOTH_9"      =               "恭喜！你现在有9颗亡者之牙了！";
+"STR_UNLOCKED_TOOTH_10"     =               "帅呆了！你把所有亡者之牙都拿到手了\n棒极了！";
+
+"STR_PURCHASE_DESCRIPTION"  =               "教雷曼飞檐走壁，大展拳脚，通过2个全新大关卡！勇闯火焰喷射器、邪恶树根、lividstone和魔笛鸟等关卡！只需0.99美元！";
+
+"WebNewsTitle"              =               "Ubisoft Web News";
+"WebNewsErrorTitle"         =               "未能连接最新消息服务器";
+"WebNewsErrorString"        =               "不好意思，网络出现问题，未能下载消息";
+
+"STR_DEADMAN_EXPLANATIONS"  =               "在此大关替我找回5颗牙齿，\n我就允许你进入\n死亡禁区！";
+
+"STR_SLOT"                  =               "存档";
+"STR_SLOT_SELECTION"        =               "更改存档";
+"STR_UNLOCK_GALLERY"        =               "画廊的新图片";
+"STR_LEVELS"                =               "解锁的关卡";
+"STR_TEETH"                 =               "死神之牙";
+"STR_TOOTH"                 =               "死神之牙";
+"STR_NEW_GAME"              =               "新存档";
+"STR_MORE_RAYMAN"           =                "+ 雷曼";
+"STR_TRAILER"               =                "预告片";
+"STR_BUY_IT"               =                 "购买";
+
+"STR_ACHIEVEMENT_1"         =               "开胃菜";
+"STR_ACHIEVEMENT_2"         =               "前菜";
+"STR_ACHIEVEMENT_3"         =               "主菜";
+"STR_ACHIEVEMENT_4"         =               "甜品";
+"STR_ACHIEVEMENT_5"         =               "锦上添花";
+"STR_ACHIEVEMENT_6"         =               "Lums赛跑模式！";
+"STR_ACHIEVEMENT_7"         =               "Lums冒险模式！";
+"STR_ACHIEVEMENT_8"         =               "Lums探险模式！";
+"STR_ACHIEVEMENT_9"         =               "Lums生存模式！";
+"STR_ACHIEVEMENT_10"        =               "真挚的微笑";
+"STR_ACHIEVEMENT_11"        =               "腼腆的微笑";
+"STR_ACHIEVEMENT_12"        =               "尴尬的微笑";
+"STR_ACHIEVEMENT_13"        =               "眉开眼笑";
+"STR_ACHIEVEMENT_14"        =               "牙医天堂";
+"STR_ACHIEVEMENT_15"        =               "顽固不化！";
+"STR_ACHIEVEMENT_16"        =               "冥顽不灵！";
+"STR_ACHIEVEMENT_17"        =               "适者生存！";
+
+"STR_TRAILER_URL"           =               "www.youtube.com/watch?v=MvhwWXF-LfU";
+"STR_MARKETPLACE_URL"       =               "static2.cdn.ubi.com/emea/gamesites/rayman/rayman_jungle.htm";
+
+"STR_RATE_APPLICATION_URL" = "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=537931449";
+"STR_RATE_TITLE" = "为「雷曼丛林之旅」评分";
+"STR_NO" = "否";
+"STR_YES" = "是";
+"STR_PLEASE_RATE" = "但雷曼没有四肢，应该得到多少颗星星呢？";
+"STR_GIFT_URL" = "itms-appss://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/giftSongsWizard?gift=1&salableAdamId=537931449&productType=C&pricingParameter=STDQ&mt=8&ign-mscache=1";
+
+//casa :aerraki
+//"STR_DLC_SERVER_URL" = "https://mob.ubi.com/rjr_iOS/";
+"STR_DLC_SERVER_URL" = "http://10.4.0.25/RJRMobile/Android_Datas/";
+
+"STR_HEROES" = "英雄";
+
+"STR_RAYMAN" = "雷曼";
+"STR_GLOBOX" = "格罗伯克斯";
+"STR_RAYMAN_2" = "黑暗雷曼";
+"STR_RAYMAN_3" = "格罗伯克斯的外衣";
+"STR_3_MORE_HEROES" = "购买格罗伯克斯和两套雷曼服装";
+"STR_SELECT_WORLD" = "选择你的关卡";
+"STR_BESTOF" = "杂货堆";
+
+"STR_LEVEL_5_1"             =               "丛林响叮当！";
+"STR_LEVEL_5_2"             =               "雪夜纷飞";
+"STR_LEVEL_5_3"             =               "瀑布来袭！";
+"STR_LEVEL_5_4"             =               "蘑菇朵朵";
+"STR_LEVEL_5_5"             =               "飞流直下";
+"STR_LEVEL_5_6"             =               "雷霆漫步";
+"STR_LEVEL_5_7"             =               "苔下仙屋";
+"STR_LEVEL_5_8"             =               "别有洞天";
+"STR_LEVEL_5_9"             =               "草丛之中";
+"STR_LEVEL_5_10"            =               "地狱龙珠！";
+
+"STR_STORE_UNAVAILABLE_TITLE" = "中止购买";
+"STR_STORE_UNAVAILABLE_TEXT" = "请稍后再试！";
+"STR_RESTORE_TRANSACTIONS" = "已经买了？那就免费来拿吧！";
+"STR_CONNECTION_FAILED_TITLE" = "网络不可用";
+"STR_CONNECTION_FAILED_TEXT" = "无法下载内容。请稍后再试！";
+
+"STR_DOWNLOAD_NOW_TEXT" = "下载";
+"STR_DOWNLOADING_TEXT" = "正在下载...";
+
+// WINRT
+"STR_PRIVACY_POLICY"  =  "Privacy policy";
+"STR_PRIVACY_POLICY_URL"  =  "http://www.ubi.com/us/info/Info.aspx?tagname=PrivacyPolicy";
+"STR_BUY_FULL_GAME" = "Buy Full Game";
+"STR_NOT_AVAILABLE_IN_TRIAL" = "Not available in Trial";
+"STR_ACHIEVEMENT_UNAVAILABLE_IN_TRIAL" = "Achievements not available in Trial";
+"STR_LEADERBOARD_UNAVAILABLE_IN_TRIAL" = "Leaderboards not available in Trial";
+"STR_LOGIN_XBOX_LIVE" = "Sign into Xbox Live";
+
+//CASA DLC
+"STR_WORLD6"				=				"海盗船";
+"STR_WORLD7"				=				"巨大植物";
+
+"STR_LEVEL_6_1"				=				"失落之城";
+"STR_LEVEL_6_2"				=				"轰！轰隆！";
+"STR_LEVEL_6_3"				=				"墙壁速降";
+"STR_LEVEL_6_4"				=				"无尽岩丘";
+"STR_LEVEL_6_5"				=				"世界之巅";
+"STR_LEVEL_6_6"				=				"胡蹦乱跳";
+"STR_LEVEL_6_7"				=				"又来了！！！";
+"STR_LEVEL_6_8"				=				"野蛮竞赛";
+"STR_LEVEL_6_9"				=				"逆时针大挑战";
+"STR_LEVEL_6_10"			=				"烧烤大挑战";
+
+"STR_LEVEL_7_1"				=				"围禁冒险";
+"STR_LEVEL_7_2"				=				"魔法之源";
+"STR_LEVEL_7_3"				=				"夺命狂奔";
+"STR_LEVEL_7_4"				=				"天塌地陷";
+"STR_LEVEL_7_5"				=				"雷曼与末日神殿";
+"STR_LEVEL_7_6"				=				"上升气流";
+"STR_LEVEL_7_7"				=				"天空斗士";
+"STR_LEVEL_7_8"				=				"晚餐来了";
+"STR_LEVEL_7_9"				=				"矿坑救赎";
+"STR_LEVEL_7_10"			=				"全能挑战！！！";
+
+"STR_2_MORE_WORLDS"			=				"20 个新关卡！";
+
+"STR_GALLERY_ITEM_16"		=				"利文斯顿拷问光精灵";
+"STR_GALLERY_ITEM_17"		=				"海盗船";
+"STR_GALLERY_ITEM_18"		=				"雷曼冲浪";
+"STR_GALLERY_ITEM_19"		=				"巨大植物";
+"STR_GALLERY_ITEM_20"		=				"利文斯顿击中光精灵";
+"STR_GALLERY_ITEM_21"		=				"雷曼击中利文斯顿";
+
+//NOEL
+"STR_APP_TITLE"             =                "";
+"STR_BUY_RFR"               =                "你想购买《雷曼嘉年华之旅》吗？";
+"STR_UNLOCK_ALL"            =                "解锁全部关卡";
+"STR_UNLOCKED"              =                "全部关卡已解锁";
+"STR_RESTORE"               =                "还原";
+"STR_ASK_PURCHASE"          =                "通过解锁所有关卡选项，现在就可进入任意关卡！";
+"STR_RFR_IS_AVAILABLE_TITLE"=                "新的雷曼游戏";
+//"STR_RFR_IS_AVAILABLE_MESSAGE"=              "《雷曼嘉年华之旅》已经上市\n 你所收集到的光精灵都可以用于该款新的雷曼游戏";
+"STR_UNLOCK_ALL_MESSAGE"    =                "你可以买一个通行证，解锁所有关卡";
+"STR_UNLOCK_NOW"			=				 "立即解锁！";
+"STR_LATER"					=				 "稍后再说"; 
+"STR_NEW_RAYMAN_MESSAGE1"	=				 "《雷曼嘉年华之旅》已经上市";
+"STR_NEW_RAYMAN_MESSAGE2"	=				 "你所收集到的光精灵都可以用于该款新的雷曼游戏";
+"STR_EXIT_CONFIRM_GAME"	=				 "你确定要退出游戏吗？";
+"STR_CONTROLLER_TUTO"	=				 "Gamepad 教程";
